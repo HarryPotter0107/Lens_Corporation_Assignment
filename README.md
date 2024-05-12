@@ -48,6 +48,8 @@ This repository contains the source code for a basic user authentication and aut
  *Spring Security
 
 
+<img width="1470" alt="Screenshot 2024-05-13 at 01 50 06" src="https://github.com/HarryPotter0107/Lens_Corporation_Assignment/assets/132452554/96e85948-9f22-4bf6-99ea-85460da3b8aa">
+
  
  
  *JWT (JSON Web Tokens)
