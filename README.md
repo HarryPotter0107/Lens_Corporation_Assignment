@@ -75,15 +75,15 @@ APIs:-
      Path:- http://localhost:8081/auth/login
 
    
-     Requirements:- Authentication required for this. once you register yourself one token is generated.and you have to copy that token. Select authorisation. And then select. auth type is 
-                    bearer token. Paste the token number to the token section. save the api and simply send it.
+     Requirements:- Authentication  is not required for this. 
 
 3. GET:- FOR VIEWING OUR DETAILS
    
      Path:- http://localhost:8081/users/me
 
    
-     Requirements:-Authentication required for this. once you logged in. If token is not expired you can view your details. if the token is expired, then please kindly generate it again.
+     Requirements:-Authentication required for this. once you log in yourself one token is generated.and you have to copy that token. Select authorisation. And then select. auth type is 
+                    bearer token. Paste the token number to the token section. save the api and simply send it. If token is not expired you can view your details. if the token is expired, then please kindly generate it again.
    
 4. GET:- FOR VIEWING ALL USERS DETAILS
    
